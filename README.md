@@ -1,9 +1,9 @@
 # NFT Card Game Project
 
 ## 🚀 Project Overview
-This is an NFT-based card game where players can collect, trade, and battle using unique digital cards. The backend uses blockchain technology (via **Hardhat** and **Web3**), while the frontend is built with **React** and **Vite**. 
+This is an blockchain based card battle game where players can battle using unique digital cards. The backend uses blockchain technology (via **Hardhat** and **Web3**), while the frontend is built with **React** and **Vite**. 
 
-The game allows users to mint and interact with NFTs, each representing a unique card with different stats, abilities, and artwork.
+The game allows users to fight using a unique card with different stats, abilities, and artwork.
 
 ## 🛠️ Tech Stack
 - **Blockchain**: Ethereum (via Hardhat)
